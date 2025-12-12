@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SUPREME STARS !!!",
+  "base_artist": "315 ALLSTARS",
+  "createdAt": "2025-12-12T01:23:29.969586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SUPREME STARS !!! (Off Vocal)",
+      "artist": "315 ALLSTARS",
+      "has_synced": false,
+      "path": "select/01_SUPREME_STARS_!!!_(Off_Vocal)_315_ALLSTARS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPREME STARS !!!",
+      "artist": "315 ALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_SUPREME_STARS_!!!_315_ALLSTARS.txt"
+    }
+  ]
+}
